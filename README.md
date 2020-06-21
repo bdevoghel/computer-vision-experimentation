@@ -2,7 +2,7 @@
 
 This repository is used to experiment with various CV ressourses.
 
-Thanks to Adrian from [pyimagesearch](https://www.pyimagesearch.com) for him tutorials and blog posts. Have a look at his [Resource Guide](cv_dl_resource_guide.pdf).
+Thanks to Adrian from [pyimagesearch](https://www.pyimagesearch.com) for his tutorials and blog posts. Have a look at his [Resource Guide](cv_dl_resource_guide.pdf).
 
 ### Interesting subjects to have a look into
 

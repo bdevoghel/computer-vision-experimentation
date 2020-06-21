@@ -1,4 +1,7 @@
-# tutorial followed here : pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python/
+# tutorial followed here : https://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python/
+
+# USAGE
+# python detect_diff.py -f img/sushi1.jpg -s img/sushi2.jpg
 
 import argparse
 import imutils
@@ -6,7 +9,7 @@ import cv2
 from skimage.metrics import structural_similarity
 
 
-def identify_diff(image_a, image_b):
+def detect_diff(image_a, image_b):
     # convert the images to grayscale
     gray_a = cv2.cvtColor(image_a, cv2.COLOR_BGR2GRAY)
     gray_b = cv2.cvtColor(image_b, cv2.COLOR_BGR2GRAY)
@@ -55,4 +58,4 @@ if __name__ == '__main__':
     image_a = cv2.imread(args['first'])
     image_b = cv2.imread(args['second'])
 
-    identify_diff(image_a, image_b)
+    detect_diff(image_a, image_b)

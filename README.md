@@ -17,6 +17,7 @@ Thanks to Adrian from [pyimagesearch](https://www.pyimagesearch.com) for his tut
    * Find, count, and draw contours
    * Conduct erosion and dilation
    * Mask of an image
+4. [Document scanner](document_scanner) (with [tutorial](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/) - day 3)
 
 ### Interesting subjects to have a look into
 

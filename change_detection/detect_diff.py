@@ -1,7 +1,7 @@
 # tutorial followed here : https://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python/
 
 # USAGE
-# python detect_diff.py -f img/sushi1.jpg -s img/sushi2.jpg
+# python detect_diff.py -f ../data/change_detection/sushi1.jpg -s ../data/change_detection/sushi2.jpg
 
 import argparse
 import imutils

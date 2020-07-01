@@ -1,7 +1,7 @@
 # tutorial followed here : https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
 
 # USAGE example
-# python basic_image_processing_operations.py img/jp.png
+# python basic_image_processing_operations.py ../data/basics/jp.png
 
 import sys
 import imutils

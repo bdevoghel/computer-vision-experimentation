@@ -1,7 +1,7 @@
 # tutorial followed here : https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
 
 # USAGE example
-# python ball_tracking.py --video ball_tracking_example.mp4
+# python ball_tracking.py --video ../data/ball_tracking/ball_tracking_example.mp4
 # python ball_tracking.py
 
 from collections import deque

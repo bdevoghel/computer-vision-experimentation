@@ -1,7 +1,7 @@
 # tutorial followed here : https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
 
 # USAGE example
-# python count_objects.py --image img/tetris_blocks.png
+# python count_objects.py --image ../data/basics/tetris_blocks.png
 
 import argparse
 import imutils

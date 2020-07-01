@@ -1,7 +1,7 @@
 # tutorial followed here : https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/
 
 # USAGE
-# python detect_faces.py --image img/rooster.jpg --prototxt model/deploy.prototxt.txt
+# python detect_faces.py --image ../data/face_detection/rooster.jpg --prototxt model/deploy.prototxt.txt
 # 												 --model model/res10_300x300_ssd_iter_140000.caffemodel
 
 import numpy as np

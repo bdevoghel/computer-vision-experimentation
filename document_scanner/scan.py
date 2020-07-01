@@ -1,7 +1,7 @@
 # tutorial followed here : https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
 
 # USAGE example
-# python scan.py --image img/receipt.jpg
+# python scan.py --image ../data/document_scanner/receipt.jpg
 
 import argparse
 import imutils

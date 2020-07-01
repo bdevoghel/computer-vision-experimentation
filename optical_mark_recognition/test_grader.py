@@ -1,7 +1,7 @@
 # tutorial followed here : https://www.pyimagesearch.com/2016/10/03/bubble-sheet-multiple-choice-scanner-and-test-grader-using-omr-python-and-opencv/
 
 # USAGE example
-# python test_grader.py --image img/test_01.png
+# python test_grader.py --image ../data/OMR/test_01.png
 
 from imutils.perspective import four_point_transform
 from imutils import contours

@@ -21,6 +21,7 @@ Thanks to Adrian from [pyimagesearch](https://www.pyimagesearch.com) for his tut
    * Perspective transform
 5. [Optical mark recognition](optical_mark_recognition) - test grading (with [tutorial](https://www.pyimagesearch.com/2016/10/03/bubble-sheet-multiple-choice-scanner-and-test-grader-using-omr-python-and-opencv/) - day 4)
    * Otsu's thresholding
+6. [Ball tracking](ball_tracking) (with [tutorial](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/) - day 5)
 
 ### Interesting subjects to have a look into
 

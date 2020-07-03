@@ -29,4 +29,5 @@ Thanks to Adrian from [pyimagesearch](https://www.pyimagesearch.com) for his tut
 * [Intro to anomaly detection with OpenCV, Computer Vision, and scikit-learn](https://www.pyimagesearch.com/2020/01/20/intro-to-anomaly-detection-with-opencv-computer-vision-and-scikit-learn/)
 * [How to use OpenCV’s “dnn” module with NVIDIA GPUs, CUDA, and cuDNN](https://www.pyimagesearch.com/2020/02/03/how-to-use-opencvs-dnn-module-with-nvidia-gpus-cuda-and-cudnn/)
 * [OpenCV ‘dnn’ with NVIDIA GPUs: 1549% faster YOLO, SSD, and Mask R-CNN](https://www.pyimagesearch.com/2020/02/10/opencv-dnn-with-nvidia-gpus-1549-faster-yolo-ssd-and-mask-r-cnn/)
+* Invisibility cloak / green screen with OpenCV
 
